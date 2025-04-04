@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/BallPlayMain.unity
+    guid: a1501ee9c391ce84f8dbeb8fbeb5aba6
+  - enabled: 1
+    path: Assets/Scenes/BallPlayStage0.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/BallPlayStage1.unity
+    guid: f7cd4878cb8966b4cb89fcdefe164ae1
+  - enabled: 1
+    path: Assets/Scenes/BallPlayStage2.unity
+    guid: 945f3946cb2a79c4ebae4be9e2e8c81e
+  - enabled: 1
+    path: Assets/Scenes/BallPlayClear.unity
+    guid: adabeac6f3f3cb047a5f965b29687a20
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
